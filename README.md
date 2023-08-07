@@ -7,7 +7,7 @@
 <h3 align="center"><b>AIML Undergrad | Java Enthusiast | Exploring Technology</b> </h3>
 <p align="center">
 <p align='center'>I am a undergraduate student pursuing B.Tech in Artificial Intelligence - Machine Learning.&#10002;
-<br>I am a determined person who loves to learn about all new technologies and currently on  a mission to merge code and creativity together. 
+<br>I am a determined person who loves to learn about new technologies & currently on a mission to merge code & creativity together. 
 <br>I am a Developer, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to <a href='https://www.linkedin.com/in/prabhleen-kaur-496109249/'>connect</a>!</p>
 
 <br>
