@@ -6,7 +6,7 @@
 
 <h3 align="center"><b>AIML Undergrad | Java Enthusiast | Exploring Technology</b> </h3>
 <p align="center">
-<p align='center'>I am a Undergraduate student in GTBIT, Delhi &#127891; studying &#10002; Artificial Intelligence - Machine Learning.
+<p align='center'>I am a undergraduate student pursuing B.Tech in Artificial Intelligence - Machine Learning.&#10002;
 I am a determined person who loves to learn about all new technologies and currently on  a mission to merge code and creativity together. I am a Developer, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to <a href='https://www.linkedin.com/in/prabhleen-kaur-496109249/'>connect</a>!</p>
 
 <br>
@@ -30,7 +30,7 @@ I am a determined person who loves to learn about all new technologies and curre
 - ⚡ Fun fact : I love travelling and exploring new things !
 
 <!-- <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryankashyap7&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=prabhleenn&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
 </div> -->
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prabhleenn&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
@@ -38,7 +38,7 @@ I am a determined person who loves to learn about all new technologies and curre
 </p>
 
 <!-- LANGUAGES USED -->
-<!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankashyap7&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
+<!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhleenn&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
 
 <br>
 
