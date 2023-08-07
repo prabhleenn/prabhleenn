@@ -29,16 +29,16 @@ I am a determined person who loves to learn about all new technologies and curre
 - 💬 Ask me about Frontend Web-Dev and ML :)
 - ⚡ Fun fact : I love travelling and exploring new things !
 
-<div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=prabhleenn&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
-</div>
+<!-- <div>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryankashyap7&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
+</div> -->
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prabhleenn&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhleenn&count_private=true&show_icons=true&theme=dark&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" width="400"></a>
 </p>
 
-**LANGUAGES USED:**
-<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhleenn&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
+<!-- LANGUAGES USED -->
+<!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankashyap7&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
 
 <br>
 
