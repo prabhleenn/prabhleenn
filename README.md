@@ -33,8 +33,8 @@ I am a determined person who loves to learn about all new technologies and curre
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryankashyap7&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
 </div>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aryankashyap7&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankashyap7&count_private=true&show_icons=true&theme=dark&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prabhleenn&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhleenn&count_private=true&show_icons=true&theme=dark&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" width="400"></a>
 </p>
 
 <!-- LANGUAGES USED -->
@@ -50,7 +50,7 @@ I am a determined person who loves to learn about all new technologies and curre
 | `Languages` | ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | `Tools`     | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) |
 
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-aryankashyap7&style=flat-square&color=232323">
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-prabhleenn&style=flat-square&color=232323">
 <hr>
 
 ## <p align=center><B> ''I'm not anti-social; I'm just not user-friendly.''</B></p>
