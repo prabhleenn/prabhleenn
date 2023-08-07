@@ -30,7 +30,7 @@ I am a determined person who loves to learn about all new technologies and curre
 - ⚡ Fun fact : I love travelling and exploring new things !
 
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryankashyap7&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=prabhleenn&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
 </div>
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prabhleenn&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
