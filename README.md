@@ -37,8 +37,8 @@ I am a determined person who loves to learn about all new technologies and curre
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhleenn&count_private=true&show_icons=true&theme=dark&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" width="400"></a>
 </p>
 
-<!-- LANGUAGES USED -->
-<!-- <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankashyap7&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
+**LANGUAGES USED:**
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhleenn&theme=radical&title_color=F16707&hide_border=true&bg_color=202020" width="290px" data-canonical-></span>  -->
 
 <br>
 
