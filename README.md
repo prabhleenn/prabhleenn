@@ -26,7 +26,7 @@
 
 - 👋 I am currently immersed in the world of Java, crafting my coding skills one line at a time.
 - 🌐 I am Exploring Open source projects while building on Web-Dev and ML.
-- 💭 I am always up for hackathons, Lets git it done !
+- 💭 I am always up for hackathons !
 - 💬 Ask me about Frontend Web-Dev and ML :)
 - ⚡ Fun fact : I love travelling and exploring new things !
 
