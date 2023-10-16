@@ -23,7 +23,7 @@
 <br>
 
 **ABOUT ME**
-
+[![An image of @prabhleenn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhleenn)](https://holopin.io/@prabhleenn)
 - 👋 I am currently immersed in the world of Java, crafting my coding skills one line at a time.
 - 🌐 I am Exploring Open source projects while building on Web-Dev and ML.
 - 💭 I am always up for hackathons !
