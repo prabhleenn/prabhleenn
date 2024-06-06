@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center"><b>AIML Undergrad | Java Enthusiast | Exploring Technology</b> </h3>
+<h3 align="center"><b>Student | AI-ML Enthusiast | Exploring Technology</b> </h3>
 <p align="center">
 <p align='center'>I am a undergraduate student pursuing B.Tech in Artificial Intelligence - Machine Learning.&#10002;
 <br>I am a determined person who loves to learn about new technologies & currently on a mission to merge code & creativity together. 
@@ -23,7 +23,7 @@
 
 **ABOUT ME**
 [![An image of @prabhleenn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhleenn)](https://holopin.io/@prabhleenn)
-- 👋 I am currently immersed in the world of Java, crafting my coding skills one line at a time.
+- 👋 I am currently immersed in the world of ML.
 - 🌐 I am Exploring Open source projects while building on Web-Dev and ML.
 - 💭 I am always up for hackathons !
 - 💬 Ask me about Frontend Web-Dev and ML :)
