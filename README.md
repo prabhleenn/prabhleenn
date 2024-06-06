@@ -14,7 +14,6 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/prabhleen-kaur-496109249/"><img src="https://img.shields.io/badge/-prabhleenkaur-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/prabhleen-kaur-496109249/" alt='Linkedin Badge'></a>
 <a href="mailto:prabhleen2901@gmail.com"><img src="https://img.shields.io/badge/-prabhleen2901-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prabhleen2901@gmail.com" alt='Gmail Badge'></a>
-<a href="http://https://prabhleen.netlify.app//"><img src="https://img.shields.io/badge/-Prabhleen.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://https://prabhleen.netlify.app/" alt='Portfolio Badge'></a>
 <a href="https://twitter.com/prabhleenn_7"><img src="https://img.shields.io/badge/-@prabhleenn_7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prabhleenn_7" alt='Twitter Badge'></a>
 <a href="https://instagram.com/prabhleen.29"><img src="https://img.shields.io/badge/-@prabhleen.29-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/prabhleen.29/" alt='LinkedIn'></a>
 </p>
@@ -32,7 +31,9 @@
 
 <!-- <div>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prabhleenn&theme=xcode&bg_color=00000000&line=ff3333&custom_title=Keep%20Exploring,%20Learning%20and%20Contributing%20away...&color=CACACA&area=true&area_color=ff3333&hide_border=true">
-</div> -->
+</div>
+<a href="http://https://prabhleen.netlify.app//"><img src="https://img.shields.io/badge/-Prabhleen.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://https://prabhleen.netlify.app/" alt='Portfolio Badge'></a> 
+-->
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prabhleenn&count_private=true&&title_color=ff3333&icon_color=ff3333&show_icons=true&theme=dark&bg_color=0D111700&text_color=CACACA" width="400"></a> 
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhleenn&count_private=true&show_icons=true&theme=dark&background=0D111700&ring=FF3333&fire=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=CACACA" width="400"></a>
