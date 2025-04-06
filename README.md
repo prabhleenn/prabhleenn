@@ -51,13 +51,13 @@
 | `Languages` | ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=OpenCV&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-1F65AC?style=for-the-badge&logo=Java&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | `Tools`     | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) |
 
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-prabhleenn&style=flat-square&color=232323">
+<!--<img align="right" src="https://komarev.com/ghpvc/?username=your-github-prabhleenn&style=flat-square&color=232323">
 <hr>
 
-## <p align=center><B> ''I'm not anti-social; I'm just not user-friendly.''</B></p>
+-## <p align=center><B> ''I'm not anti-social; I'm just not user-friendly.''</B></p> 
 
 ---
 
 <img src="./assets/footer [halfrost].png">
 
-### <p align="center"> Congratulations, you found me on GitHub ! </p>
+### <p align="center"> Congratulations, you found me on GitHub ! </p>-->
